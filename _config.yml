@@ -1,0 +1,7 @@
+title: My GitHub Pages Site
+description: A simple site using Jekyll on GitHub Pages
+baseurl: "" # Leave empty for a user or organization site; use "/repo-name" for project site
+url: "https://gracevivian04.github.io" # Your domain name
+theme: minima # Specify a theme if you want to use one
+plugins:
+  - jekyll-feed
